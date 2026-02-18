@@ -91,8 +91,6 @@ Then bring the container up with:
 docker-compose up -d --build
 ```
 
-## 4. Docker-Compose
-
 ## Thanks
 
 Made possible by the [maunium.net/go/mautrix](https://maunium.net/go/mautrix/) library and all the contributors to the [matrix.org](https://matrix.org) protocol.
